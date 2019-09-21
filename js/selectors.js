@@ -18,5 +18,9 @@ function divSelector() {
 
 function firstListItem() {
   
+<<<<<<< HEAD
  return $('ul#pic-list li:first-child');
+=======
+  $('ul#pic-list li:first-child');
+>>>>>>> b4a7bd08f66962689e8a1bbd35e3b16204ebab8d
 }
